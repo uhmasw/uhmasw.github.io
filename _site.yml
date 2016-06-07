@@ -1,0 +1,17 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Allied Seminars and Workshops"
+  left:
+    - text: "Seminars and Workshops"
+      icon: fa-home
+      href: index.html
+    - text: "Subscribe"
+      icon: fa-user-plus
+      href: subscribe.html
+    - text: "News/Updates"
+      icon: fa-newspaper-o
+      href: newsupdates.html
+    - text: "About"
+      icon: fa-info
+      href: about.html

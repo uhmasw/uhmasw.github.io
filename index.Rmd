@@ -1,0 +1,46 @@
+---
+title: ""
+output:
+  html_document:
+    theme: simplex
+    highlight: default
+---
+<br>
+<br>
+
+*********
+
+#### Monday, April 4, 2016
+
+Arlan Brucal, University of Hawaii at Manoa, Economics Department
+
+* 12:30 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**Not All States Are Alike: Measuring the Differential Effect of Oil**
+
+We study the effects of oil price shocks on economic activity at the US state level in the U.S. First, following Kilian (2015), we decomposed the real price of crude oil movements into three components: crude oil supply shocks; shocks to the global demand for all industrial commodities; and demand shocks that are specific to the crude oil market. We find that the implications of higher oil price to individual states' income growth largely depends on the cause of that oil price increase. In particular, oil supply shocks and oil-specific demand shocks seem to influence state economies involved in producing oil. Industrial commodity demand shocks do not have significant effects on states' growth, regardless of whether they are producing oil or not. Second, we measure the effect of economic spillovers across states and find that linear estimation ignoring potential spillovers tends to overestimate the impact of exogenous oil supply shocks. More importantly, major producers of oil are less affected by oil price drops through spillovers. To the extent that more recent crude oil price changes were driven by commodity demand shocks, our study helps to explain the reason why the macroeconomy responds very slowly to declining oil prices.
+
+* [Working Paper](http://www.link.com)
+
+* [Supplimental Information](http://www.link.com)
+
+***********
+
+#### Monday, April 11, 2016
+
+Camilo Mora, University of Hawaii at Manoa, Geography Department
+
+* 12:30 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**Global human vulnerability to ongoing climate change**
+
+Climate change is one of the biggest stressors to the natural world, and one with multiple consequences on human welfare. In this presentation, I describe several recent research papers about the increasing human vulnerability to climate change, mediated by the impacts on nature. The results are not pretty but there is still hope to turn this around for the best.
+
+* [Working Paper](http://www.link.com)
+
+* [Supplimental Information](http://www.link.com)
+
