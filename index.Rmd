@@ -44,3 +44,22 @@ Climate change is one of the biggest stressors to the natural world, and one wit
 
 * [Supplimental Information](http://www.link.com)
 
+***********
+
+#### Thursday, June 9, 2016
+
+Jonathan Sweeney, University of Hawaii at Manoa, Economics Department
+
+* 12:30 PM - 1:20 PM
+
+* NOAA, IRC
+
+**Estimating Supply and Demand Elasticity for Fish: An Evaluation of Welfare Effects from Price Stabilization**
+
+Despite potentially large global gains, rights-based fishery management remains rare. One reason for this may that distributional welfare effects from adopting rights based management are largely unknown. This paper addresses this gap in the literature by considering the effects of price stabilization on producer and consumer surplus. Using daily market data from the Honolulu fish auction, I provide consistent estimates of price elasticity of supply and demand for bigeye tuna and broadbill swordfish. Results indicate that supply for both species is inelastic to price, while the price elasticity of demand for bigeye is -1.64, and for swordfish is -3.60. These parameter estimates suggest that price stabilization will benefit producers over consumers. I plan to empirically evaluate the distributional welfare effects using analytical approximations of producer and consumer surplus. These findings suggest that losses to consumer welfare may be a limitation to adopting rights-based management in fisheries. Updating rights-based policies to allow for wealth transfers between producers and consumers may generate Pareto 
+
+* [Working Paper](http://www.link.com)
+
+* [Supplimental Information](http://www.link.com) 
+
+
