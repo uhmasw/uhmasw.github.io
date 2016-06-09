@@ -10,6 +10,11 @@ output:
 
 *********
 
+<div align="right">
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;ctz=Pacific%2FHonolulu" style="border-width:0" width="300" height="300" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<div align="left">
 #### Monday, April 4, 2016
 
 Arlan Brucal, University of Hawaii at Manoa, Economics Department
@@ -61,5 +66,5 @@ Despite potentially large global gains, rights-based fishery management remains 
 * [Working Paper](http://www.link.com)
 
 * [Supplimental Information](http://www.link.com) 
-
+</div>
 
