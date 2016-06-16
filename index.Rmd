@@ -10,6 +10,12 @@ output:
 
 *********
 
+<div align="center">
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=uhmasw%40gmail.com&amp;color=%231B887A&amp;ctz=Pacific%2FHonolulu" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<br><br>
+
 #### Monday, April 4, 2016
 
 Arlan Brucal, University of Hawaii at Manoa, Economics Department
@@ -46,6 +52,8 @@ Climate change is one of the biggest stressors to the natural world, and one wit
 
 ***********
 
+<a name="jon"></a>
+
 #### Thursday, June 9, 2016
 
 Jonathan Sweeney, University of Hawaii at Manoa, Economics Department
@@ -61,5 +69,4 @@ Despite potentially large global gains, rights-based fishery management remains 
 * [Working Paper](http://www.link.com)
 
 * [Supplimental Information](http://www.link.com) 
-
 
