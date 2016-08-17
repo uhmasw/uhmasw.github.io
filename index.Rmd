@@ -23,6 +23,8 @@ output:
 
 Arlan Brucal, University of Hawaii at Manoa, Economics Department
 
+![](https://img.shields.io/Economics/Resource.png?color=blue)
+
 * 12:30 PM - 1:20 PM
 
 * Saunders 515 - Miller Room
@@ -40,6 +42,8 @@ We study the effects of oil price shocks on economic activity at the US state le
 #### Monday, April 11, 2016
 
 Camilo Mora, University of Hawaii at Manoa, Geography Department
+
+![](https://img.shields.io/Geography/Climate%20Change.png?color=green])
 
 * 12:30 PM - 1:20 PM
 
@@ -60,6 +64,8 @@ Climate change is one of the biggest stressors to the natural world, and one wit
 #### Thursday, June 9, 2016
 
 Jonathan Sweeney, University of Hawaii at Manoa, Economics Department
+
+![](https://img.shields.io/Economics/Fisheries.png?color=blue)
 
 * 12:30 PM - 1:20 PM
 
