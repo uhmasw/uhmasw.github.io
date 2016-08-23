@@ -19,63 +19,231 @@ output:
 <br>
 <br>
 
-#### Monday, April 4, 2016
+#### Monday, August 22, 2016
 
-Arlan Brucal, University of Hawaii at Manoa, Economics Department
+Michael Roberts, UHERO Economics/Sea Grant
+
+![](https://img.shields.io/Economics/Environmental.png?color=blue)
+
+* 12:15 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**Comparing and Combining Statistical Models and Crop Models with Implications for Climate Change**
+
+**Abstract**:  Two distinct approaches have been used to evaluate how climate change will affect agricultural output.  One approach takes data and assumptions about soils, solar radiation, management practices and projected daily rainfall and temperatures, and feeds these through process-based mathematical models of plant growth and seed formation.   Impacts from climate change are drawn from differences in yields simulated using historical and projected future weather.  The second approach uses statistical regression models to link historical yield outcomes to historical weather and extrapolates from observed associations to make predictions about yield under an altered projected climate.  The two approaches have different strengths and weaknesses.  Our goal this paper is to compare and combine the two approaches using a large new data set that spans a majority of actual maize fields in the United States. Comparison of each model's predictions with actual outcomes allows us to see the circumstances for which each model makes more accurate predictions, and thereby aid future model refinements. Also, by combining models we can likely make more accurate predictions about the potential impacts of weather or climate change.
+        
+  The results indicate similar predictive accuracy between the baseline statistical model (Schlenker and Roberts 2009) and the process-based crop model (Muchow, Sinclair and Bennet, 1990), with the process-based model slightly out-predicting the statistical model after post-model calibration.  The combined model significantly out-predicts both models,  with Davidson-McKinnon non-nested J-tests rejecting the null hypothesis that either model is sufficient without inclusion of the other.  Prediction accuracy varies widely by geography, with both models predicting better in warmer and drier regions.  Finally, we consider predictions each model and the combined model under simple climate change scenarios.  These predictions indicate that the statistical model and the combined model have much more negative impacts from warming due to an extreme heat effect not captured by the process model.
+
+* [Presentation Slides](http://uhero.hawaii.edu/assets/WEERCompareCombine.pdf)
+
+***********
+
+#### Monday, August 29, 2016
+
+Elodie Letort, INRA
 
 ![](https://img.shields.io/Economics/Resource.png?color=blue)
 
-* 12:30 PM - 1:20 PM
+* 12:15 PM - 1:20 PM
 
 * Saunders 515 - Miller Room
 
-**Not All States Are Alike: Measuring the Differential Effect of Oil**
+**How do farmers manage their biodiversity through time? A dynamic acreage allocation model with productive feedback**
 
-We study the effects of oil price shocks on economic activity at the US state level in the U.S. First, following Kilian (2015), we decomposed the real price of crude oil movements into three components: crude oil supply shocks; shocks to the global demand for all industrial commodities; and demand shocks that are specific to the crude oil market. We find that the implications of higher oil price to individual states' income growth largely depends on the cause of that oil price increase. In particular, oil supply shocks and oil-specific demand shocks seem to influence state economies involved in producing oil. Industrial commodity demand shocks do not have significant effects on states' growth, regardless of whether they are producing oil or not. Second, we measure the effect of economic spillovers across states and find that linear estimation ignoring potential spillovers tends to overestimate the impact of exogenous oil supply shocks. More importantly, major producers of oil are less affected by oil price drops through spillovers. To the extent that more recent crude oil price changes were driven by commodity demand shocks, our study helps to explain the reason why the macroeconomy responds very slowly to declining oil prices.
-
-* [Working Paper](http://www.link.com)
-
-* [Supplimental Information](http://www.link.com)
+**Abstract**:
 
 ***********
 
-#### Monday, April 11, 2016
+#### Monday, September 12, 2016
 
-Camilo Mora, University of Hawaii at Manoa, Geography Department
+Arlan Brucal, UHERO
 
-![](https://img.shields.io/Geography/Climate%20Change.png?color=green])
+![](https://img.shields.io/Economics/Resource.png?color=blue)
 
-* 12:30 PM - 1:20 PM
+* 12:15 PM - 1:20 PM
 
 * Saunders 515 - Miller Room
 
-**Global human vulnerability to ongoing climate change**
+**The Impact of Oil Price Shocks on the Philippine Economy**
 
-Climate change is one of the biggest stressors to the natural world, and one with multiple consequences on human welfare. In this presentation, I describe several recent research papers about the increasing human vulnerability to climate change, mediated by the impacts on nature. The results are not pretty but there is still hope to turn this around for the best.
-
-* [Working Paper](http://www.link.com)
-
-* [Supplimental Information](http://www.link.com)
+**Abstract**:
 
 ***********
 
-<a name="jonsweeney05092016"></a>
+#### Monday, September 19, 2016
 
-#### Thursday, June 9, 2016
+Sherilyn Wee, Economics/UHERO
 
-Jonathan Sweeney, University of Hawaii at Manoa, Economics Department
+![](https://img.shields.io/Economics/Energy.png?color=blue)
+
+* 12:15 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**A State-Level Analysis of Financial Incentives and Other Policies on Electric Vehicle Adoption in the U.S.**
+
+**Abstract**:
+
+***********
+
+#### Monday, September 26, 2016
+
+Hyungyu Kim, Economics
+
+![](https://img.shields.io/Economics/Energy.png?color=blue)
+
+* 12:15 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**Revisiting the Energy Efficiency Gap?**
+
+**Abstract**:
+
+***********
+
+#### Monday, October 3, 2016
+
+Imelda, Economics
+
+![](https://img.shields.io/Economics/Energy and Health.png?color=blue)
+
+* 12:15 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**Fuel Switching and Infant Mortality: Evidence from LPG Subsidy Program in Indonesia**
+
+**Abstract**:
+
+***********
+
+#### Monday, October 10, 2016
+
+Jonathan Sweeney, Economics
 
 ![](https://img.shields.io/Economics/Fisheries.png?color=blue)
 
-* 12:30 PM - 1:20 PM
+* 12:15 PM - 1:20 PM
 
-* NOAA, IRC
+* Saunders 515 - Miller Room
 
-**Estimating Supply and Demand Elasticity for Fish: An Evaluation of Welfare Effects from Price Stabilization**
+**Modeling dynamic price dispersion in a common market with coordination between firms**
 
-Despite potentially large global gains, rights-based fishery management remains rare. One reason for this may that distributional welfare effects from adopting rights based management are largely unknown. This paper addresses this gap in the literature by considering the effects of price stabilization on producer and consumer surplus. Using daily market data from the Honolulu fish auction, I provide consistent estimates of price elasticity of supply and demand for bigeye tuna and broadbill swordfish. Results indicate that supply for both species is inelastic to price, while the price elasticity of demand for bigeye is -1.64, and for swordfish is -3.60. These parameter estimates suggest that price stabilization will benefit producers over consumers. I plan to empirically evaluate the distributional welfare effects using analytical approximations of producer and consumer surplus. These findings suggest that losses to consumer welfare may be a limitation to adopting rights-based management in fisheries. Updating rights-based policies to allow for wealth transfers between producers and consumers may generate Pareto 
+**Abstract**:
 
-* [Working Paper](http://www.link.com)
+***********
 
-* [Supplimental Information](http://www.link.com) 
+#### Monday, October 17, 2016
+
+Matthias Fripp, Electrical Engineering
+
+![](https://img.shields.io/Engineering/Electrical.png?color=red)
+
+* 12:15 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**TBD**
+
+**Abstract**:
+
+***********
+
+#### Monday, October 24, 2016
+
+Carlo Fezzi, University of Trento
+
+![](https://img.shields.io/Environmental Sciences/Agriculture.png?color=yellow)
+
+* 12:15 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**Risk Preferences and Subjective Beliefs: Implications for Crop Insurance Subsidies**
+
+**Abstract**:
+
+***********
+
+#### Monday, November 7, 2016
+
+James Griffin, HNEI/PUC
+
+![](https://img.shields.io/Energy/Known.png?color=blue)
+
+* 12:15 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**TBD**
+
+**Abstract**:
+
+***********
+
+#### Monday, November 14, 2016
+
+Rollan Geronimo, Geography
+
+![](https://img.shields.io/Geography/Known.png?color=green)
+
+* 12:15 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**TBD**
+
+**Abstract**:
+
+***********
+
+#### Monday, November 21, 2016
+
+Makena Coffman, DURP/UHERO
+
+![](https://img.shields.io/Economics/Known.png?color=blue)
+
+* 12:15 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**TBD**
+
+**Abstract**:
+
+***********
+
+#### Monday, November 28, 2016
+
+Michael Abrigo, EWC
+
+![](https://img.shields.io/Economics/Unknown.png?color=blue)
+
+* 12:15 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**Ancestral Domains and Resource Management: The Case of Ifugao Tribe in the Philippines**
+
+**Abstract**:
+
+***********
+
+#### December 5, 2016
+
+John Lynham / Arlan Brucal, UHERO
+
+![](https://img.shields.io/Economics/Environmental.png?color=blue)
+
+* 12:15 PM - 1:20 PM
+
+* Saunders 515 - Miller Room
+
+**Are seawalls beggar-thy-neighbor? Evidence from property values in Hawaii**
+
+**Abstract**:
+
+***********
 
