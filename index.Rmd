@@ -171,7 +171,7 @@ Carlo Fezzi, University of Trento
 
 James Griffin, HNEI/PUC
 
-![](https://img.shields.io/Energy/Known.png?color=blue)
+![](https://img.shields.io/Energy/Unknown.png?color=blue)
 
 * 12:15 PM - 1:20 PM
 
@@ -187,7 +187,7 @@ James Griffin, HNEI/PUC
 
 Rollan Geronimo, Geography
 
-![](https://img.shields.io/Geography/Known.png?color=green)
+![](https://img.shields.io/Geography/Unknown.png?color=green)
 
 * 12:15 PM - 1:20 PM
 
@@ -203,7 +203,7 @@ Rollan Geronimo, Geography
 
 Makena Coffman, DURP/UHERO
 
-![](https://img.shields.io/Economics/Known.png?color=blue)
+![](https://img.shields.io/Economics/Unknown.png?color=blue)
 
 * 12:15 PM - 1:20 PM
 
