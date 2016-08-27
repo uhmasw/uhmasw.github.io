@@ -51,7 +51,13 @@ Elodie Letort, INRA
 
 **How do farmers manage their biodiversity through time? A dynamic acreage allocation model with productive feedback**
 
-**Abstract**:
+**Abstract**: 
+
+* [Presentation]()
+* Related Papers:
+* * [Lansink, A. O., & Stefanou, S. (2001). Dynamic area allocation and economies of scale and scope](http://onlinelibrary.wiley.com/doi/10.1111/j.1477-9552.2001.tb00937.x/pdf)
+*  * [Thomas, A. (2003). A dynamic model of on-farm integrated nitrogen management.](http://erae.oxfordjournals.org/content/30/4/439.full.pdf+html)
+* * [Orazem, P. F., & Miranowski, J. A. (1994). A dynamic model of acreage allocation with general and crop-specific soil capital](http://ajae.oxfordjournals.org/content/76/3/385.full.pdf+html)
 
 ***********
 
