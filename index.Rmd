@@ -53,7 +53,7 @@ Elodie Letort, INRA
 
 **Abstract**: 
 
-* [Presentation]()
+* [Presentation](https://github.com/uhmasw/uhmasw.github.io/blob/master/Presentations/Fall%202016/Letort_WEER.pptx?raw=true)
 * Related Papers:
 * * [Lansink, A. O., & Stefanou, S. (2001). Dynamic area allocation and economies of scale and scope](http://onlinelibrary.wiley.com/doi/10.1111/j.1477-9552.2001.tb00937.x/pdf)
 *  * [Thomas, A. (2003). A dynamic model of on-farm integrated nitrogen management.](http://erae.oxfordjournals.org/content/30/4/439.full.pdf+html)
