@@ -1,17 +1,9 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "UHM Allied Seminars and Workshops"
+  title: "UHM Economics Journal Club"
   left:
-    - text: "Seminars and Workshops"
+    - text: "Presentations"
       icon: fa-home
       href: index.html
-    - text: "Subscribe"
-      icon: fa-user-plus
-      href: subscribe.html
-    - text: "News/Updates"
-      icon: fa-newspaper-o
-      href: newsupdates.html
-    - text: "About"
-      icon: fa-info
-      href: about.html
+
